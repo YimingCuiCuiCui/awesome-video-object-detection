@@ -1,15 +1,5 @@
 # Awesome-Video-Object-Detection[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<h1> 
-
-```diff
-- Recent papers (from 2015)
-```
-
-</h1>
-
-<h3> Keywords </h3>
-
 
 ---
 ## 2020
@@ -33,5 +23,12 @@
 - [[Arxiv](https://arxiv.org/pdf/2010.15740.pdf)] Recurrent Neural Networks for video object detection.
 ---
 ## 2019
-
-
+- [[CVPR](https://openaccess.thecvf.com/content_CVPR_2019/papers/Fan_Shifting_More_Attention_to_Video_Salient_Object_Detection_CVPR_2019_paper.pdf)] Shifting More Attention to Video Salient Object Detection. [[caffe](https://github.com/DengPingFan/DAVSOD)] 
+- [[ICCV](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Motion_Guided_Attention_for_Video_Salient_Object_Detection_ICCV_2019_paper.pdf)] Motion Guided Attention for Video Salient Object Detection. [[pytorch](https://github.com/lhaof/Motion-Guided-Attention)] 
+- [[ICCV](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wu_Sequence_Level_Semantics_Aggregation_for_Video_Object_Detection_ICCV_2019_paper.pdf)] Sequence Level Semantics Aggregation for Video Object Detection.
+- [[ICCV](https://openaccess.thecvf.com/content_ICCV_2019/papers/Guo_Progressive_Sparse_Local_Attention_for_Video_Object_Detection_ICCV_2019_paper.pdf)] Progressive Sparse Local Attention for Video Object Detection.
+- [[ICCV](https://openaccess.thecvf.com/content_ICCV_2019/papers/Deng_Object_Guided_External_Memory_Network_for_Video_Object_Detection_ICCV_2019_paper.pdf)] Object Guided External Memory Network for Video Object Detection.
+- [[ICCV](https://openaccess.thecvf.com/content_ICCV_2019/papers/Shvets_Leveraging_Long-Range_Temporal_Relationships_Between_Proposals_for_Video_Object_Detection_ICCV_2019_paper.pdf)] Leveraging Long-Range Temporal Relationships Between Proposals for Video Object Detection.
+- [[ICCV](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Fast_Object_Detection_in_Compressed_Video_ICCV_2019_paper.pdf)] Fast Object Detection in Compressed Video.
+- [[ICCV](https://openaccess.thecvf.com/content_ICCV_2019/papers/Deng_Relation_Distillation_Networks_for_Video_Object_Detection_ICCV_2019_paper.pdf)] Relation Distillation Networks for Video Object Detection.
+- [[IJCAI](https://www.ijcai.org/Proceedings/2019/0134.pdf)] Transferable Adversarial Attacks for Image and Video Object Detection.
